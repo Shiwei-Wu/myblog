@@ -20,13 +20,31 @@ toc: true
 
 点击[下载][1]安装
 
+如何[升级][2] Node 和 npm ？
+
+升级 Node
+``` bash
+安装命令行指令 n
+$ npm install -g n
+
+安装最新版本
+$ n stable
+安装某一版本(v6.2.0)：
+$ n v6.2.0
+```
+
+升级 npm
+``` bash
+$ npm -g install npm@next
+```
+
 ### 安装 Git
 
-点击[下载][2]安装
+点击[下载][3]安装
 
 ### 安装 Hexo
 
-具体安装步骤可以参考[官方文档][3]，总结为：
+具体安装步骤可以参考[官方文档][4]，总结为：
 
 ``` bash
 $ npm install -g hexo-cli
@@ -120,5 +138,6 @@ $ hexo deploy                              # 更新到 Github
 [^1]:	在 hexo 3.0 版本后，deploy git 被分开，需要安装，安装命令如下：npm install hexo-deploy-git —save
 
 [1]:	https://nodejs.org/en/
-[2]:	https://git-scm.com/download/
-[3]:	https://hexo.io/zh-cn/docs/index.html
+[2]:    https://segmentfault.com/a/1190000009025883
+[3]:	https://git-scm.com/download/
+[4]:	https://hexo.io/zh-cn/docs/index.html
