@@ -8,6 +8,8 @@ toc: true
 
 本文介绍了如何利用 hexo + github page 的形式搭建个人博客，步骤详细，一步成功。
 
+<!--more-->
+
 ## 准备工具
 
 - 操作系统: Mac OS 10.12, Sierra.
