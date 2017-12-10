@@ -7,7 +7,7 @@ title: 吴小亮の闲言闲语               # 网站标题
 subtitle:                          # 网站副标题
 description: 记录生活, 记录工作       # 网站描述
 author: Kiwii                      # 博主名字
-language: zh-Hans                  # 网站使用的语言
+language: en                       # 网站使用的语言
 timezone:                          # 网站时区。Hexo 默认使用您电脑的时区
 
 # URL

@@ -1,6 +1,6 @@
 ---
 title: 基于 hexo + github page 搭建个人博客
-date: 2017年4月2日
+date: 2017-04-02
 tags: hexo blog
 toc: true
 ---
